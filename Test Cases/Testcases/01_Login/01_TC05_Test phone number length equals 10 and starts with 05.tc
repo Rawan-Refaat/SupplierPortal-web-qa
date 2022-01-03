@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01_TC05_Test phone number length equals 10 and starts with 05</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d11dcfbf-a336-4b21-9fea-c00c756b4127</testCaseGuid>
+</TestCaseEntity>

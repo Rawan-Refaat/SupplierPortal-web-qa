@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_TC01 View PO details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2e7adcf-1e6c-4f6f-ae39-1497165cd0f5</testCaseGuid>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>0a12a7fa-2355-44df-98dd-728c254a52dc</id>
+      <masked>false</masked>
+      <name>Result</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0aeef7f8-81a9-4302-b4ab-593ddf4d6c31</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Purches Order').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>7ee54879-83aa-4693-a119-b27323f8e5ef</id>
+      <masked>false</masked>
+      <name>orderID</name>
+   </variable>
+</TestCaseEntity>

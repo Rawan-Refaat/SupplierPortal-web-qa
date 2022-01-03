@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_TC03 Reject Purchase order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f142776-606c-497d-89b9-875eb408f5af</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ConfirmOrderNotifMsg').getValue(1, 2)</defaultValue>
+      <description></description>
+      <id>84e794a8-ca6f-4f6f-a1a5-40e85af059da</id>
+      <masked>false</masked>
+      <name>ExpNotifAr</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ConfirmOrderNotifMsg').getValue(2, 2)</defaultValue>
+      <description></description>
+      <id>2e1c700d-2bcc-4d19-b7d9-30e873a08938</id>
+      <masked>false</masked>
+      <name>ExpNotifEN</name>
+   </variable>
+</TestCaseEntity>

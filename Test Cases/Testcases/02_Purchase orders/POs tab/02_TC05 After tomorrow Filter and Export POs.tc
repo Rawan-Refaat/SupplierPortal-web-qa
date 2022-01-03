@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>prerequisite:
+POs created with after Tomorrow date.</description>
+   <name>02_TC05 After tomorrow Filter and Export POs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc353f9b-229f-4dc8-b807-c39d494e72ba</testCaseGuid>
+</TestCaseEntity>

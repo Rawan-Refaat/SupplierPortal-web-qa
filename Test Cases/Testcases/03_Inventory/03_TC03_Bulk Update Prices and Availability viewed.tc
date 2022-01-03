@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03_TC03_Bulk Update Prices and Availability viewed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d41b5bdc-8c09-4944-bdcd-e360821afff8</testCaseGuid>
+</TestCaseEntity>

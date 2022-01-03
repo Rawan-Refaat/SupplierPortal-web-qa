@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_TC13 Download Goods Receipt Confimation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef444e46-1782-4c5c-b1cd-1facbf21a7d9</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Current shipments').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>ae8a081a-a42a-4f02-889c-4daee3d86253</id>
+      <masked>false</masked>
+      <name>OrderID</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchOnPOs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5142b750-ef90-4f6e-8d8b-d3cbd0f6b073</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Purches Order').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>7bd7a4b2-8506-42b7-810b-edf9bb447ab8</id>
+      <masked>false</masked>
+      <name>orderID</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>8594f07f-6a90-4f9a-840d-c41a723df909</id>
+      <masked>false</masked>
+      <name>msg</name>
+   </variable>
+</TestCaseEntity>

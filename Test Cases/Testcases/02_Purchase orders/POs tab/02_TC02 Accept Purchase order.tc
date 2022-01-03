@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_TC02 Accept Purchase order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7a94bf7-7961-47ed-8273-72af39b35b6d</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ConfirmOrderNotifMsg').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>e0e66c75-30d9-43e0-bb63-02467213a46c</id>
+      <masked>false</masked>
+      <name>ExpNotifAr</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ConfirmOrderNotifMsg').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>9a845c93-8b9e-4b54-bdf4-b9a3dcb52bcf</id>
+      <masked>false</masked>
+      <name>ExpNotifEn</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>prerequisite:
+POs created with today date.</description>
+   <name>02_TC04 Today Filter and Export POs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2f1ac7f-251a-48e9-96c8-368910f85b2f</testCaseGuid>
+</TestCaseEntity>

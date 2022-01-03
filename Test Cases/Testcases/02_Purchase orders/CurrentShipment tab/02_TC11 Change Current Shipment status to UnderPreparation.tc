@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_TC11 Change Current Shipment status to UnderPreparation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3920d863-502d-4773-9825-67ce9068e735</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1c851703-475f-48e5-87dc-face7a9f1caf</id>
+      <masked>false</masked>
+      <name>Status</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_TC14 Export Current Shipment Sheet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dce00777-b62e-4d0a-8cd4-06d4e7fa6f7e</testCaseGuid>
+</TestCaseEntity>

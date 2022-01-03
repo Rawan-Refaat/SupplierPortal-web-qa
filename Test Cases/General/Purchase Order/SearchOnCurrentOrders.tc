@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchOnCurrentOrders</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2566a9dc-aec1-4aa9-ab9d-f999d9542354</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Current shipments').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>21003fe8-776d-40b9-92c6-50805211e12e</id>
+      <masked>false</masked>
+      <name>orderID</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>58f08381-3315-4624-88b4-2cb60a0f1fa2</id>
+      <masked>false</masked>
+      <name>msg</name>
+   </variable>
+</TestCaseEntity>

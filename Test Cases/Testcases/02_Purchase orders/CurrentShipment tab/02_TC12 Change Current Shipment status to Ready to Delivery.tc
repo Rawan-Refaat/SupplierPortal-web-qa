@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_TC12 Change Current Shipment status to Ready to Delivery</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0df33f8-3ec5-460a-b34f-252e88882e3f</testCaseGuid>
+</TestCaseEntity>

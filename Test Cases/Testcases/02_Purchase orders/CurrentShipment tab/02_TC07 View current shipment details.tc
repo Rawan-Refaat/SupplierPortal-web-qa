@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_TC07 View current shipment details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>685f4447-376d-48cc-b5de-f239ee4f844f</testCaseGuid>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>7450ae93-bd53-4dba-8ffa-1b2217cc9430</id>
+      <masked>false</masked>
+      <name>Result</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>57d1ca43-97ff-4748-8b09-8a7fd050a25f</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Current shipments').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>8a189c93-265e-40c5-b652-de6d68f73683</id>
+      <masked>false</masked>
+      <name>orderID</name>
+   </variable>
+</TestCaseEntity>
